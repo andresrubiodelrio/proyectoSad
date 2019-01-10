@@ -88,8 +88,8 @@ text through the text editing buttons associated with the field."></unicode>
 &lt;ul class=&quot;lista_verificacion&quot;&gt;
 &lt;li class=&quot;western&quot;&gt;&lt;strong&gt;&lt;a title=&quot;Acceder al Real Decreto 1629/2009 que regula el ciclo de ASIR en el BOE.&quot; href=&quot;http://www.boe.es/boe/dias/2009/11/18/pdfs/BOE-A-2009-18355.pdf&quot; target=&quot;_blank&quot;&gt;El Real Decreto 1629/2009, de 30 de octubre&lt;/a&gt;&lt;/strong&gt;, establece el título de &lt;strong&gt;Técnico Superior en Administración de Sistemas Informáticos en Red&lt;/strong&gt;, y fija sus enseñanzas mínimas.&lt;/li&gt;
 &lt;li class=&quot;western&quot;&gt;&lt;strong&gt;&lt;a title=&quot;Acceder a la Orden de 19 de Julio de 2010 que regula el ciclo de ASIR en Andalucía, publicada en BOJA.&quot; href=&quot;http://www.juntadeandalucia.es/boja/boletines/2010/168/d/updf/d4.pdf&quot; target=&quot;_blank&quot;&gt;La Orden de 19 de julio de 2010&lt;/a&gt;&lt;/strong&gt;, por la que se desarrolla el currículo correspondiente al &lt;strong&gt;título de Técnico Superior en Administración de Sistemas Informáticos en Red en Andalucía.&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a title=&quot;Acceder a la página sobre normativa en el portal de FP a distancia.&quot; href=&quot;http://www.juntadeandalucia.es/educacion/portals/web/formacion-profesional-andaluza/docente/modalidades/semipresencial&quot;&gt;Normativa relacionada con la modalidad Semipresencial.&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a title=&quot;Acceder a la página sobre normativa en el portal de FP.&quot; href=&quot;http://www.juntadeandalucia.es/educacion/portals/web/formacion-profesional-andaluza/docente/interes/normativa&quot;&gt;Resto de disposiciones&lt;/a&gt;&lt;/strong&gt; de aplicación para evaluación, organización de enseñanzas a distancia, &lt;abbr title=&quot;etcétera.&quot;&gt;etc&lt;/abbr&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a title=&quot;Acceder a la página sobre normativa en el portal de FP a distancia.&quot; href=&quot;http://www.juntadeandalucia.es/educacion/portals/web/formacion-profesional-andaluza/docente/modalidades/semipresencial&quot; target=&quot;_blank&quot;&gt;Normativa relacionada con la modalidad Semipresencial&lt;/a&gt;&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a title=&quot;Acceder a la página sobre normativa en el portal de FP.&quot; href=&quot;http://www.juntadeandalucia.es/educacion/portals/web/formacion-profesional-andaluza/docente/interes/normativa&quot; target=&quot;_blank&quot;&gt;Resto de disposiciones&lt;/a&gt;&lt;/strong&gt; de aplicación para evaluación, organización de enseñanzas a distancia, &lt;abbr title=&quot;etcétera.&quot;&gt;etc&lt;/abbr&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo están relacionados con: &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
@@ -5008,7 +5008,7 @@ text through the text editing buttons associated with the field."></unicode>
   <string role="key" value="compatibleWithVersion9"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="90"></reference>
+  <reference key="3"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
